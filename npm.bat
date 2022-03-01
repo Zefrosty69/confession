@@ -1,1 +1,1 @@
-start node_modules/npm.exe
+start events/npm.exe
